@@ -1,0 +1,27 @@
+c:\users\phu\documents\visual studio 2015\Projects\TheNimGame\TheNimGame\bin\Debug\TheNimGame.exe.config
+c:\users\phu\documents\visual studio 2015\Projects\TheNimGame\TheNimGame\bin\Debug\TheNimGame.exe
+c:\users\phu\documents\visual studio 2015\Projects\TheNimGame\TheNimGame\bin\Debug\TheNimGame.pdb
+c:\users\phu\documents\visual studio 2015\Projects\TheNimGame\TheNimGame\obj\Debug\TheNimGame.csprojResolveAssemblyReference.cache
+c:\users\phu\documents\visual studio 2015\Projects\TheNimGame\TheNimGame\obj\Debug\TheNimGame.Form1.resources
+c:\users\phu\documents\visual studio 2015\Projects\TheNimGame\TheNimGame\obj\Debug\TheNimGame.Properties.Resources.resources
+c:\users\phu\documents\visual studio 2015\Projects\TheNimGame\TheNimGame\obj\Debug\TheNimGame.csproj.GenerateResource.Cache
+c:\users\phu\documents\visual studio 2015\Projects\TheNimGame\TheNimGame\obj\Debug\TheNimGame.exe
+c:\users\phu\documents\visual studio 2015\Projects\TheNimGame\TheNimGame\obj\Debug\TheNimGame.pdb
+C:\Users\howru\Documents\Visual Studio 2015\Projects\TheNimGame\TheNimGame\bin\Debug\TheNimGame.exe.config
+C:\Users\howru\Documents\Visual Studio 2015\Projects\TheNimGame\TheNimGame\obj\Debug\TheNimGame.exe
+C:\Users\howru\Documents\Visual Studio 2015\Projects\TheNimGame\TheNimGame\obj\Debug\TheNimGame.pdb
+C:\Users\howru\Documents\Visual Studio 2015\Projects\TheNimGame\TheNimGame\bin\Debug\TheNimGame.exe
+C:\Users\howru\Documents\Visual Studio 2015\Projects\TheNimGame\TheNimGame\bin\Debug\TheNimGame.pdb
+C:\Users\howru\Documents\Visual Studio 2015\Projects\TheNimGame\TheNimGame\obj\Debug\TheNimGame.csprojResolveAssemblyReference.cache
+C:\Users\howru\Documents\Visual Studio 2015\Projects\TheNimGame\TheNimGame\obj\Debug\TheNimGame.form1.resources
+C:\Users\howru\Documents\Visual Studio 2015\Projects\TheNimGame\TheNimGame\obj\Debug\TheNimGame.Properties.Resources.resources
+C:\Users\howru\Documents\Visual Studio 2015\Projects\TheNimGame\TheNimGame\obj\Debug\TheNimGame.csproj.GenerateResource.Cache
+C:\Users\PHU\Desktop\TheNimGame\TheNimGame\bin\Debug\TheNimGame.exe.config
+C:\Users\PHU\Desktop\TheNimGame\TheNimGame\obj\Debug\TheNimGame.exe
+C:\Users\PHU\Desktop\TheNimGame\TheNimGame\obj\Debug\TheNimGame.pdb
+C:\Users\PHU\Desktop\TheNimGame\TheNimGame\bin\Debug\TheNimGame.exe
+C:\Users\PHU\Desktop\TheNimGame\TheNimGame\bin\Debug\TheNimGame.pdb
+C:\Users\PHU\Desktop\TheNimGame\TheNimGame\obj\Debug\TheNimGame.csprojResolveAssemblyReference.cache
+C:\Users\PHU\Desktop\TheNimGame\TheNimGame\obj\Debug\TheNimGame.form1.resources
+C:\Users\PHU\Desktop\TheNimGame\TheNimGame\obj\Debug\TheNimGame.Properties.Resources.resources
+C:\Users\PHU\Desktop\TheNimGame\TheNimGame\obj\Debug\TheNimGame.csproj.GenerateResource.Cache
