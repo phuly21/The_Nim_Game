@@ -25,3 +25,12 @@ C:\Users\PHU\Desktop\TheNimGame\TheNimGame\obj\Debug\TheNimGame.csprojResolveAss
 C:\Users\PHU\Desktop\TheNimGame\TheNimGame\obj\Debug\TheNimGame.form1.resources
 C:\Users\PHU\Desktop\TheNimGame\TheNimGame\obj\Debug\TheNimGame.Properties.Resources.resources
 C:\Users\PHU\Desktop\TheNimGame\TheNimGame\obj\Debug\TheNimGame.csproj.GenerateResource.Cache
+C:\Users\PHU\Documents\GitHub\The_Nim_Game\TheNimGame\bin\Debug\TheNimGame.exe.config
+C:\Users\PHU\Documents\GitHub\The_Nim_Game\TheNimGame\obj\Debug\TheNimGame.exe
+C:\Users\PHU\Documents\GitHub\The_Nim_Game\TheNimGame\obj\Debug\TheNimGame.pdb
+C:\Users\PHU\Documents\GitHub\The_Nim_Game\TheNimGame\bin\Debug\TheNimGame.exe
+C:\Users\PHU\Documents\GitHub\The_Nim_Game\TheNimGame\bin\Debug\TheNimGame.pdb
+C:\Users\PHU\Documents\GitHub\The_Nim_Game\TheNimGame\obj\Debug\TheNimGame.csprojResolveAssemblyReference.cache
+C:\Users\PHU\Documents\GitHub\The_Nim_Game\TheNimGame\obj\Debug\TheNimGame.form1.resources
+C:\Users\PHU\Documents\GitHub\The_Nim_Game\TheNimGame\obj\Debug\TheNimGame.Properties.Resources.resources
+C:\Users\PHU\Documents\GitHub\The_Nim_Game\TheNimGame\obj\Debug\TheNimGame.csproj.GenerateResource.Cache
